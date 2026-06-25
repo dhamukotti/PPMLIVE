@@ -269,7 +269,7 @@ const LoginV2 = () => {
           <Box display={'flex'} justifyContent={'start'} px={20}>
             <Box>
               <Typography className='text-5xl text-textPrimary leading-tight font-bold'>LogIn to</Typography>
-              <Typography className='text-5xl leading-tight font-bold text-primary'>Manage</Typography>
+              <Typography className='text-5xl leading-tight font-bold text-primary'>Managess</Typography>
               <Typography className='text-5xl text-textPrimary leading-tight font-bold'>fantastic thing</Typography>
               <Typography className='text-2xl text-textPrimary font-bold' mt={6}>
                 {`If you don't have an account`}
